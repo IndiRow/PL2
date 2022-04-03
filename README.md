@@ -13,6 +13,7 @@ Some code screenshot<br>
 ![dec8dcb492521a26c6eec68372f61abc](https://user-images.githubusercontent.com/39675003/97804752-05936400-1c7c-11eb-9add-eb55b1a85c80.png)
 <hr>
 Code linted and there is no syntax mistakes
+Also no errors and no exceptions
 
 ![image](https://user-images.githubusercontent.com/39675003/161438752-56befe20-11cb-49a9-b58a-64b9d5e76cfb.png)
 
