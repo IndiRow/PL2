@@ -12,10 +12,7 @@ Some code screenshot<br>
 
 ![dec8dcb492521a26c6eec68372f61abc](https://user-images.githubusercontent.com/39675003/97804752-05936400-1c7c-11eb-9add-eb55b1a85c80.png)
 <hr>
-Inheritance example<br>
 
-![7f13ba31c533022a8fc0c527cbcd17b3](https://user-images.githubusercontent.com/39675003/97804883-c6b1de00-1c7c-11eb-98b1-904e3d31fab4.png)
-![2d20b4fd2d6d08a533def560ebcc48b1](https://user-images.githubusercontent.com/39675003/97804890-cd405580-1c7c-11eb-833d-6f72cda61aa8.png)
 <hr>
 As bonus here's JAR packed file<br> 
 
